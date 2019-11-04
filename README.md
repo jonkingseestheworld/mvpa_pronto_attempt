@@ -1,6 +1,6 @@
 # mvpa_pronto_attempt
 
-My very first attempts in performing multivariate pattern analysis (MVPA) with neuroimaging data using *PRoNTo* software. <br/>
+**My very first attempts in performing multivariate pattern analysis (MVPA) with neuroimaging data using *PRoNTo* software.** <br/>
 
 In this attempt, the classification challenge is to differentiate 2 choices (i. gambles that were accepted and ii. those that were rejected) in a risky decision-making task. The task is based on the second experiment reported here (Supplementary Materials: Methods): https://www.biorxiv.org/content/10.1101/473975v2
 
@@ -14,3 +14,5 @@ For further details related to the analysis/pipeline and underlying algorithms a
 
 Required software: PRoNTo software (download from http://www.mlnl.cs.ucl.ac.uk/pronto/prtsoftware.html) & Matlab. <br/>
 The version used in my analysis: v2.1.
+
+![Alt text](img.jpg?raw=true "Title")
